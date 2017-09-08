@@ -1,7 +1,7 @@
 # Gamblersruin Webpage
 
 This repository contains a version of the Gambler's Ruin Java Applet from a long time ago. This object oriented class was written
-by [Joe Koebbe](http://www.math.usu.edu/~koebbe) as part of a teaching unit for a course entitled Math 4620 Computer Aided
+by [Joe Koebbe](https://www.github.com/jvkoebbe) as part of a teaching unit for a course entitled Math 4620 Computer Aided
 Mathematics for Secondary Mathematics Teachers. The idea was to present an example of a mathematical modeling problem with a
 closed form analytic solution for the problem.
 
