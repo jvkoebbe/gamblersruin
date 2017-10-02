@@ -37,3 +37,17 @@ the codes using the following command:
 Note that this assumes the binary for the java compiler (javac) is in the path for your computer. If this is not the case,
 the process for setting up the path variable can be found at a number of sites related to working on Linux, Cygwin, and/or
 Windows sites.
+
+1. [Oracle Instructions:](https://www.java.com/EN/DOWNLOAD/HELP/PATH.XML)
+2. [Stack Overflow Instructions:](https://stackoverflow.com/questions/31925437/javac-doesnt-work-correctly-on-windows-10)
+
+Note that you need to make sure that you include both the **javac** and **java** commands in this process. So, you should
+include the path to the Java Developer Kit (JDK) folder instead of the Java Runtime Environment folder (JRE). The former
+includes both the compiler and runtime commands. Once you have the code compiled, you can run the application that will
+build a graphical user interface on your screen. The command is:
+
+    java GRGUI
+
+You should see a small window show up in the upper left hand corner of your screen. The textfields can be used to play around
+with the Gambler's Ruin problem. To see how the code works, just hit the Simulate button. Change the parameters and see what
+happens.
