@@ -29,14 +29,29 @@ or anyone's code for that matter.
 1. [GRGUI.java](https://jvkoebbe.github.io/gamblersruin/GRGUI.java).
 2. [Gambler.java](https://jvkoebbe.github.io/gamblersruin/Gambler.java).
 
-After you have downloaded the codes, but these in the same folder (there are no packages involved in these codes) and compile
-the codes using the following command:
+After you have downloaded the codes, put these files in the same folder (there are no packages involved in these codes) and
+compile the codes using the following command in a **cmd** window:
 
     javac GRGUI.java
 
 Note that this assumes the binary for the java compiler (javac) is in the path for your computer. If this is not the case,
 the process for setting up the path variable can be found at a number of sites related to working on Linux, Cygwin, and/or
 Windows sites.
+
+### Jar File Download
+
+A java archive (jar) file can be downloaded by saving the target for the following link:
+
+[GRGUI.jar](https://jvkoebbe.github.io/gamblersruin/GRGUI.jar)
+
+To use this option the only other step in the process is to use the **java** command to run the code directly out of the jar
+file. The command is:
+
+    java -jar GRGUI.jar
+
+Keep in mind that you may still need to change the system path variable to include the **java** command.
+
+
 
 1. [Oracle Instructions:](https://www.java.com/EN/DOWNLOAD/HELP/PATH.XML)
 2. [Stack Overflow Instructions:](https://stackoverflow.com/questions/31925437/javac-doesnt-work-correctly-on-windows-10)
@@ -51,3 +66,10 @@ build a graphical user interface on your screen. The command is:
 You should see a small window show up in the upper left hand corner of your screen. The textfields can be used to play around
 with the Gambler's Ruin problem. To see how the code works, just hit the Simulate button. Change the parameters and see what
 happens.
+
+### Opening a CMD Window to Run the Gamblers Ruin Application
+
+To get at all of the Java commands on a Windows system, you will need to open a CMD window. This can be done by running the
+command in Windows. Hold down the meta key (the one with the Microsoft logo) and type an 'r'. A window will pop up. Then
+type the command "cmd" and enter to start a CMD-Window. The **javac** and **java** commands can be run from inside this
+window to execute the commands and start up the Graphical User Interface (GUI).
