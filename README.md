@@ -8,4 +8,4 @@ Aided Mathematics for Secondary Mathematics Teachers.
 
 More coming on this repository
 
-Last Worked on: 08/15/2020
+Last Worked on: 08/16/2020
