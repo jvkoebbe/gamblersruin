@@ -7,3 +7,5 @@ Aided Mathematics for Secondary Mathematics Teachers.
 [Gamblers Ruin Main Page:](https://jvkoebbe.github.io/gamblersruin/main)
 
 More coming on this repository
+
+Last Worked on: 08/15/2020
